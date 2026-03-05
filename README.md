@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Mohammed Jawad Ahmed Shaikh 👋
 
-<!--
-**mohammedjawad944/mohammedjawad944** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Electronics and Communication Engineering Student  
+Karnataka, India  
 
-Here are some ideas to get you started:
+## About Me
+I am interested in Embedded Systems, IoT, and Computer Vision.  
+I enjoy building automation systems that combine hardware and software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+Programming: C, Python
+
+Embedded Systems: Arduino, ESP32, Microcontrollers
+
+Computer Vision: OpenCV, Tesseract OCR
+
+Tools: Arduino IDE, MATLAB, Xilinx, Keil, Linux, VS Code, Android Studio
+
+## Projects
+
+### Sustainable Corridor Lighting Solution Using Solar Panels
+Smart corridor lighting system powered by solar energy with PIR motion sensors.
+
+### RFID Attendance System
+Contactless attendance system using RFID tags and Arduino.
+
+### Medicine Identifier Using Computer Vision
+Python-based OCR system that detects medicine names from tablet strip images.
+
+## Contact
+Email: shaikhjawad944@gmail.com  
+LinkedIn: linkedin.com/in/mohammed-jawad-ahmed-shaikh
